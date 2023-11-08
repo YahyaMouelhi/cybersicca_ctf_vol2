@@ -2,6 +2,3 @@
 User-agent : yahya-bot
 Disallow: /webplus.html
 Disallow: /chessAdmins/yahya/tournament.xml
-
-User-agent : ayoub-bot 7.0
-Disallow : /
