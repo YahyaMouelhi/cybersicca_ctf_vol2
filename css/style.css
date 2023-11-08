@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/regwa/phpKwPI6Z.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #e6e6e6;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #c29715;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    font-size: 36px;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #888888;
+}
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.intro{
+    width: 25vw;
+    margin-top: 5vh;
+    margin-left: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.intro h1{
+    font-size: 30px;
+}
+
+.intro p{
+    font-size: 22px;
+}
+
+hr{
+    margin: auto;
+    border: 1px solid black;
+}

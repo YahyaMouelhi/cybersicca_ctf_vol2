@@ -1,0 +1,12 @@
+# new server update <br>
+# for folders and files !! <br><br>
+
+500 : /secrets <br>
+200 : /webplus.html <br>
+500 : /configs/ssh/private.keys <br>
+200 : /robots.txt <br>
+404 : /users/banned <br>
+403 : /workplaces/news/programs.txt <br>
+200 : /adminsPanel/server.conf <br>
+301 : /newMmbers/register.html <br>
+503 : /admin.php <br>
