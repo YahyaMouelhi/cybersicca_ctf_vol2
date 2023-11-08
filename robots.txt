@@ -1,4 +1,4 @@
 
-User-agent : yahya-bot
+User-agent : *
 Disallow: /webplus.html
 Disallow: /chessAdmins/yahya/tournament.xml
